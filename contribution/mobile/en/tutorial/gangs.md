@@ -1,5 +1,5 @@
 # Gangs
-**Gangs** are a great way to join forces with your friends. Members gain the ability to access gang headquarters, dungeons, and chat. Gangs can be created and joined once you're level 3. Creating a gang costs 50,000BTC and has a weekly upkeep fee of Resources and BTC.
+**Gangs** are a great way to join forces with your friends. Members gain the ability to access gang headquarters, dungeons, and chat. Gangs can be created and joined once you're level 3. You must be invited to join a gang. Creating a gang costs 50,000BTC and has a weekly upkeep fee of Resources and BTC.
 
 ## Gang HQ
 The gang headquarters show your gang level, necessary upkeep, amount of members, and control over Shangri-La. It also has new AFK tasks and an Automatic Recycler.  
